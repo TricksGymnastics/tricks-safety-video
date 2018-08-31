@@ -1,1 +1,1 @@
-<?php header( 'Location: /index_scorm.html' ) ;  ?>
+<?php include("index_scorm.html") ;  ?>
